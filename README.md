@@ -1,6 +1,8 @@
 # IMGWhisper: An Image Caption Generator
 
-IMGWhisper is a web app that generates captions for images using pre-trained transformer models.
+IMGWhisper is a streamlit app that generates captions for images using pre-trained transformer models.
+
+📍 Deployed on [Huggingface](https://huggingface.co/spaces/sudipanpodder/imgwhisper)
 
 ## Features
 
